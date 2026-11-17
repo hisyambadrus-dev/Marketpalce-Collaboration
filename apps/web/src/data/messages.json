@@ -1,0 +1,21 @@
+[
+  {
+    "id": "m1",
+    "sender": "Si C (Chandra Wijaya)",
+    "senderAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200",
+    "text": "Halo Ahmad! Terima kasih sudah mengambil task Optimasi Query MySQL & Logo Vector.",
+    "time": "10:14 AM",
+    "isMe": false,
+    "projectId": "proj-scenario-b"
+  },
+  {
+    "id": "m2",
+    "sender": "Ahmad Rizky (You)",
+    "senderAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200",
+    "text": "Sama-sama Si C! Saya sudah selesaikan query indexing. Tautan repositori dan file .CDR logo terlampir ya.",
+    "attachment": "https://github.com/ahmadrizky/query-opt-result.git",
+    "time": "10:18 AM",
+    "isMe": true,
+    "projectId": "proj-scenario-b"
+  }
+]

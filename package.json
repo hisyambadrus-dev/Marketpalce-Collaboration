@@ -1,0 +1,17 @@
+{
+  "name": "kampus-konnect-platform",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": ["apps/web", "apps/api"],
+  "scripts": {
+    "dev": "concurrently -n WEB,API -c blue,green \"npm run dev --workspace @kampus-konnect/web\" \"npm run start:dev --workspace @kampus-konnect/api\"",
+    "dev:web": "npm run dev --workspace @kampus-konnect/web",
+    "dev:api": "npm run start:dev --workspace @kampus-konnect/api",
+    "build": "npm run build --workspace @kampus-konnect/web && npm run build --workspace @kampus-konnect/api",
+    "typecheck": "npm run typecheck --workspace @kampus-konnect/web && npm run typecheck --workspace @kampus-konnect/api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "engines": { "node": ">=22.0.0" }
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "proj-scenario-a",
+    "type": "team",
+    "category": "Pemrograman",
+    "title": "Pengembangan Web App Agency & Service Booking Hub - Tugas Besar MPPL",
+    "campus": "Universitas Darunnajah - Teknik Informatika",
+    "course": "Manajemen Proyek Perangkat Lunak (MPPL)",
+    "posterName": "Si A (Budi Santoso)",
+    "posterAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Teknik Informatika - Sem 6",
+    "posterRep": 4.9,
+    "posterNim": "20210801042",
+    "openRoles": [
+      "UI/UX Designer",
+      "Frontend Developer"
+    ],
+    "techStack": [
+      "Next.js",
+      "Laravel",
+      "Tailwind CSS",
+      "MySQL"
+    ],
+    "budgetType": "barter",
+    "budgetValue": "Barter Nilai / Prototyping & Sertifikat Tim",
+    "deadline": "14 Hari",
+    "description": "Membutuhkan rekan tim untuk Tugas Besar MPPL. Saya menangani Arsitektur Sistem & Backend Laravel API. Diharapkan UI/UX Designer dapat membuat High-Fidelity Figma Prototype.",
+    "status": "recruiting",
+    "applicants": [
+      {
+        "id": "app-sib",
+        "applicantName": "Si B (Siti Rahma)",
+        "applicantAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200",
+        "applicantMajor": "Desain Komunikasi Visual - Sem 4",
+        "applicantRep": 4.95,
+        "appliedRole": "UI/UX Designer",
+        "pitch": "Halo Si A, saya berpengalaman membuat UI Kit Design System dengan Figma & pernah menjuarai Hackathon Kampus. Saya tertarik bergabung dengan tim MPPL ini!",
+        "portfolioUrl": "https://figma.com/@sitirahma_design",
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "id": "proj-scenario-b",
+    "type": "gig",
+    "category": "Pemrograman",
+    "title": "Optimasi Query Database MySQL & Vector Tracing Logo CorelDRAW",
+    "campus": "Universitas Indonesia - Ilmu Komputer",
+    "course": "Basis Data & Desain Grafis",
+    "posterName": "Si C (Chandra Wijaya)",
+    "posterAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Sistem Informasi - Sem 4",
+    "posterRep": 4.8,
+    "posterNim": "20220902118",
+    "openRoles": [
+      "Database Specialist",
+      "Graphic Designer"
+    ],
+    "techStack": [
+      "MySQL",
+      "CorelDRAW",
+      "SQL Tuning",
+      "Vector Illustration"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 150.000 / Barter Prototyping",
+    "deadline": "2 Hari",
+    "description": "Dibutuhkan bantuan cepat untuk optimasi query MySQL indexing yang slow response serta merapikan logo kampus menjadi format Vector CorelDRAW (.CDR / .SVG).",
+    "status": "in_progress",
+    "escrowStatus": "Funds Held in Kampus Escrow (Rp 150.000)",
+    "applicants": [
+      {
+        "id": "app-bidder1",
+        "applicantName": "Ahmad Rizky",
+        "applicantAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200",
+        "applicantMajor": "Teknik Informatika - Sem 8",
+        "applicantRep": 5.0,
+        "appliedRole": "Database Specialist",
+        "pitch": "Siap bantu optimasi query MySQL dalam 24 jam. Sekalian bonus script indexing.",
+        "portfolioUrl": "https://github.com/ahmadrizky-dev",
+        "offeredRate": "Rp 150.000",
+        "status": "accepted"
+      }
+    ]
+  },
+  {
+    "id": "gig-dev-1",
+    "type": "gig",
+    "category": "Pemrograman",
+    "title": "Slicing UI Figma ke React + Tailwind CSS (3 Halaman Responsif)",
+    "campus": "Telkom University - RPL",
+    "course": "Pemrograman Web Lanjut",
+    "posterName": "Rian Permana",
+    "posterAvatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Software Engineering - Sem 5",
+    "posterRep": 4.7,
+    "posterNim": "1301204011",
+    "openRoles": [
+      "Frontend Developer"
+    ],
+    "techStack": [
+      "React.js",
+      "Tailwind CSS",
+      "Figma"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 200.000",
+    "deadline": "2 Hari",
+    "description": "Dibutuhkan frontend dev untuk slicing 3 screen landing page & dashboard dari file Figma ke dalam komponen React berserta Tailwind CSS. Code harus rapi & modular.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-dev-2",
+    "type": "gig",
+    "category": "Pemrograman",
+    "title": "Setup Auth Sanctum, Middleware & Multi-role Access Control Laravel",
+    "campus": "Universitas Darunnajah - Teknik Informatika",
+    "course": "Pemrograman Web Backend",
+    "posterName": "Fikri Haikal",
+    "posterAvatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Teknik Informatika - Sem 4",
+    "posterRep": 4.85,
+    "posterNim": "20220801009",
+    "openRoles": [
+      "Backend Engineer"
+    ],
+    "techStack": [
+      "Laravel",
+      "REST API",
+      "Sanctum"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 200.000",
+    "deadline": "2 Hari",
+    "description": "Butuh bantuan konfigurasi authentication Laravel Sanctum lengkap dengan role permission (Admin, Mahasiswa, Dosen) dan API middleware security.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-dev-3",
+    "type": "gig",
+    "category": "Pemrograman",
+    "title": "Bantuan Deployment Next.js App ke Vercel & SSL Custom Domain",
+    "campus": "Universitas Gadjah Mada - TRPL",
+    "course": "Komputasi Awan",
+    "posterName": "Nadia Utami",
+    "posterAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "TRPL - Sem 6",
+    "posterRep": 4.9,
+    "posterNim": "21/478901/SV/19200",
+    "openRoles": [
+      "DevOps / Cloud Specialist"
+    ],
+    "techStack": [
+      "Next.js",
+      "Vercel",
+      "DNS / SSL"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 100.000",
+    "deadline": "1 Hari",
+    "description": "Bantuan mendesak untuk fixing error build environment variables saat deployment web Next.js ke Vercel dan mendaftarkan custom domain .ac.id.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-des-1",
+    "type": "gig",
+    "category": "Desain",
+    "title": "Desain Poster A3 & 3 Carousel Feed Instagram Event Seminar Himpunan",
+    "campus": "Universitas Indonesia - DKV",
+    "course": "Desain Media Publikasi",
+    "posterName": "Anisa Rahmania",
+    "posterAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "DKV - Sem 4",
+    "posterRep": 4.9,
+    "posterNim": "2206081290",
+    "openRoles": [
+      "Graphic Designer"
+    ],
+    "techStack": [
+      "Figma",
+      "Photoshop",
+      "Illustrator"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 120.000",
+    "deadline": "2 Hari",
+    "description": "Membutuhkan desainer grafis untuk membuat 1 Poster utama seminar kampus & 3 slide konten Instagram feed dengan tema Modern Soft Glassmorphism.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-des-2",
+    "type": "gig",
+    "category": "Desain",
+    "title": "Interactive Prototype Figma Dashboard Mobile App (5 Screens)",
+    "campus": "Institut Teknologi Bandung - STEI",
+    "course": "Interaksi Manusia dan Komputer",
+    "posterName": "Reza Febrian",
+    "posterAvatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Teknik Informatika - Sem 6",
+    "posterRep": 4.8,
+    "posterNim": "13520102",
+    "openRoles": [
+      "UI/UX Designer"
+    ],
+    "techStack": [
+      "Figma",
+      "UI/UX",
+      "Prototyping"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 200.000 / Barter Code",
+    "deadline": "3 Hari",
+    "description": "Mencari UI/UX desainer yang bisa merangkai komponen prototype interaktif untuk 5 screen utama aplikasi dompet digital mahasiswa.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-des-3",
+    "type": "gig",
+    "category": "Desain",
+    "title": "Editing Video Cinematic Reels TikTok Kegiatan Organisasi UKM (60 Detik)",
+    "campus": "Telkom University - Ilmu Komunikasi",
+    "course": "Produksi Konten Digital",
+    "posterName": "Kevin Sanjaya",
+    "posterAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Ilkom - Sem 4",
+    "posterRep": 4.75,
+    "posterNim": "1601202099",
+    "openRoles": [
+      "Video Editor"
+    ],
+    "techStack": [
+      "CapCut",
+      "Premiere Pro",
+      "Color Grading"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 100.000",
+    "deadline": "1 Hari",
+    "description": "Tersedia mentahan footage video HD 4K kegiatan inaugurasi. Minta tolong di-edit menjadi video aesthetic berdurasi 60 detik lengkap dengan sound viral & subtitle.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-aka-1",
+    "type": "gig",
+    "category": "Akademik",
+    "title": "Olah Data Statistik SPSS / SmartPLS (Uji Validitas & Regresi Linier)",
+    "campus": "Universitas Gadjah Mada - FEB",
+    "course": "Metodologi Penelitian & Pengolahan Data",
+    "posterName": "Maya Indah",
+    "posterAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Manajemen - Sem 8",
+    "posterRep": 4.95,
+    "posterNim": "20/456123/EK/22900",
+    "openRoles": [
+      "Data Analyst / Statistician"
+    ],
+    "techStack": [
+      "SPSS",
+      "SmartPLS",
+      "Statistik"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 250.000",
+    "deadline": "2 Hari",
+    "description": "Membutuhkan teman yang jago olah data 120 kuesioner kualitatif menggunakan SPSS/SmartPLS. Termasuk interpretasi ringkas bab 4.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-aka-2",
+    "type": "gig",
+    "category": "Akademik",
+    "title": "Formatting Dokumen Skripsi / IEEE Template & Sitasi Otomatis Mendeley",
+    "campus": "Universitas Indonesia - Teknik",
+    "course": "Tugas Akhir / Skripsi",
+    "posterName": "Dimas Anggara",
+    "posterAvatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Teknik Elektro - Sem 8",
+    "posterRep": 4.85,
+    "posterNim": "1906381022",
+    "openRoles": [
+      "Document Specialist"
+    ],
+    "techStack": [
+      "Ms Word",
+      "Mendeley",
+      "IEEE Style"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 100.000",
+    "deadline": "1 Hari",
+    "description": "Merapikan margin 4-4-3-3, daftar isi, daftar gambar otomatis, serta memasukkan 25 referensi ke Mendeley sesuai standar IEEE.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-aka-3",
+    "type": "gig",
+    "category": "Akademik",
+    "title": "Translasi & Paraphrase Abstrak Jurnal Ilmiah (Bilingual EN - ID)",
+    "campus": "Universitas Darunnajah - Bahasa & Humaniora",
+    "course": "Academic Writing",
+    "posterName": "Siti Nurhaliza",
+    "posterAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Sastra Inggris - Sem 6",
+    "posterRep": 4.9,
+    "posterNim": "20210901011",
+    "openRoles": [
+      "Academic Translator"
+    ],
+    "techStack": [
+      "Academic Writing",
+      "Grammarly",
+      "Translation"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 75.000",
+    "deadline": "1 Hari",
+    "description": "Menerjemahkan 350 kata abstrak skripsi dari Bahasa Indonesia ke Bahasa Inggris akademik tanpa grammar error dan lolos Turnitin < 15%.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-ops-1",
+    "type": "gig",
+    "category": "Operasional",
+    "title": "Jasa Dokumentasi Foto & Video Wisuda / Kegiatan Organisasi (2 Jam)",
+    "campus": "Universitas Indonesia - Vokasi",
+    "course": "Fotografi Publik",
+    "posterName": "Bambang Pamungkas",
+    "posterAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Penyiaran - Sem 4",
+    "posterRep": 4.8,
+    "posterNim": "2206129811",
+    "openRoles": [
+      "Photographer"
+    ],
+    "techStack": [
+      "DSLR / Mirrorless",
+      "Lightroom"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 250.000",
+    "deadline": "1 Hari",
+    "description": "Dibutuhkan fotografer freelance lengkap dengan kamera mirrorless/DSLR untuk foto candid syukuran wisuda di pelataran rektorat.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-ops-2",
+    "type": "gig",
+    "category": "Operasional",
+    "title": "Jastip Cetak Skripsi 3 Eksemplar, Jilid Hardcover & Antar ke Fakultas",
+    "campus": "Universitas Darunnajah - Teknik Informatika",
+    "course": "Operasional Kampus",
+    "posterName": "Ahmad Dahlan",
+    "posterAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "Teknik Informatika - Sem 8",
+    "posterRep": 4.9,
+    "posterNim": "20200801001",
+    "openRoles": [
+      "Runner / Jastip"
+    ],
+    "techStack": [
+      "Jastip",
+      "Hardcover Printing"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 50.000 (+Biaya Cetak)",
+    "deadline": "1 Hari",
+    "description": "Tolong bantu bawa file PDF, cetakkan hardcover tinta emas 3 buku skripsi di percetakan terdekat kampus dan antarkan langsung ke ruang dosen.",
+    "status": "recruiting",
+    "applicants": []
+  },
+  {
+    "id": "gig-ops-3",
+    "type": "gig",
+    "category": "Operasional",
+    "title": "Operator Sound System Mini & Mic Wireless untuk Seminar Indoor",
+    "campus": "Institut Teknologi Bandung - SBM",
+    "course": "Event Management",
+    "posterName": "Taufik Hidayat",
+    "posterAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200",
+    "posterMajor": "SBM - Sem 4",
+    "posterRep": 4.85,
+    "posterNim": "19022011",
+    "openRoles": [
+      "Sound Crew"
+    ],
+    "techStack": [
+      "Audio Mixer",
+      "Microphone Wireless"
+    ],
+    "budgetType": "cash",
+    "budgetValue": "Rp 200.000",
+    "deadline": "1 Hari",
+    "description": "Dibutuhkan sound man berpengalaman untuk menjaga kestabilan mixer audio & mic wireless selama 3 jam sesi seminar Himpunan.",
+    "status": "recruiting",
+    "applicants": []
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "stud-1",
+    "name": "Si A (Budi Santoso)",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200",
+    "campus": "Universitas Darunnajah",
+    "major": "Teknik Informatika",
+    "semester": "Semester 6",
+    "nim": "20210801042",
+    "repScore": 4.9,
+    "bio": "Backend Architect & System Analyst enthusiast. Suka merancang REST API scalable dengan Laravel & Next.js.",
+    "github": "https://github.com/budisantoso-dev",
+    "figma": "https://figma.com/@budi_system",
+    "portfolio": "https://budi-portfolio.dev",
+    "skills": [
+      {
+        "name": "Next.js",
+        "category": "Tech",
+        "verified": true
+      },
+      {
+        "name": "Laravel",
+        "category": "Tech",
+        "verified": true
+      },
+      {
+        "name": "Tailwind CSS",
+        "category": "Tech",
+        "verified": true
+      },
+      {
+        "name": "MySQL",
+        "category": "Tech",
+        "verified": true
+      },
+      {
+        "name": "System Architecture",
+        "category": "Analysis",
+        "verified": true
+      }
+    ],
+    "stats": {
+      "completedProjects": 12,
+      "gigsDone": 8,
+      "totalEarned": "Rp 3.450.000"
+    }
+  },
+  {
+    "id": "stud-2",
+    "name": "Si B (Siti Rahma)",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200",
+    "campus": "Universitas Darunnajah",
+    "major": "Desain Komunikasi Visual",
+    "semester": "Semester 4",
+    "nim": "20220901015",
+    "repScore": 4.95,
+    "bio": "UI/UX & Product Designer dengan fokus pada Soft Glassmorphism, Micro-interactions, dan Design System.",
+    "github": "https://github.com/sitirahma",
+    "figma": "https://figma.com/@sitirahma_design",
+    "portfolio": "https://dribbble.com/sitirahma",
+    "skills": [
+      {
+        "name": "Figma",
+        "category": "Design",
+        "verified": true
+      },
+      {
+        "name": "CorelDRAW",
+        "category": "Design",
+        "verified": true
+      },
+      {
+        "name": "UI/UX Design",
+        "category": "Design",
+        "verified": true
+      },
+      {
+        "name": "Vector Tracing",
+        "category": "Design",
+        "verified": true
+      },
+      {
+        "name": "Prototyping",
+        "category": "Design",
+        "verified": true
+      }
+    ],
+    "stats": {
+      "completedProjects": 9,
+      "gigsDone": 15,
+      "totalEarned": "Rp 4.200.000"
+    }
+  },
+  {
+    "id": "stud-3",
+    "name": "Si C (Chandra Wijaya)",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200",
+    "campus": "Universitas Indonesia",
+    "major": "Sistem Informasi",
+    "semester": "Semester 4",
+    "nim": "20220902118",
+    "repScore": 4.8,
+    "bio": "Database Admin & Fullstack Developer. Spesialisasi pada Query Optimization, Data Indexing, dan React.",
+    "github": "https://github.com/chandrawijaya",
+    "figma": "https://figma.com/@chandra_ui",
+    "portfolio": "https://chandra.dev",
+    "skills": [
+      {
+        "name": "MySQL",
+        "category": "Tech",
+        "verified": true
+      },
+      {
+        "name": "PostgreSQL",
+        "category": "Tech",
+        "verified": true
+      },
+      {
+        "name": "React.js",
+        "category": "Tech",
+        "verified": true
+      },
+      {
+        "name": "CorelDRAW",
+        "category": "Design",
+        "verified": false
+      }
+    ],
+    "stats": {
+      "completedProjects": 7,
+      "gigsDone": 11,
+      "totalEarned": "Rp 2.800.000"
+    }
+  }
+]
